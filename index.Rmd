@@ -7,6 +7,7 @@ bibliography: cites.bib
 ---
 ```{r setup, include=FALSE}
 #library(tufte)
+knitr::opts_chunk$set(fig.align="center")
 
 # invalidate cache when the tufte version changes
 #knitr::opts_chunk$set(cache.extra = packageVersion('tufte'),out.width="80%",fig.width=4)
