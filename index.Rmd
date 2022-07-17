@@ -122,7 +122,7 @@ alt$Chart(fin, title="Pro-Kopf-Verbrauch an ausgewählten Obstsorten")$propertie
 
 Insbesondere in der ersten Hälfte der 1970er Jahre war ein vergleichsweise breites Sortiment heimischer und nicht-heimischer Obstsorten und Südfrüchte verfügbar, ohne jedoch den tatsächlichen Bedarf zu decken. 1978 betrug der Verbrauch an Obst und Südfrüchten etwa 31 kg pro Kopf und Jahr. Mehr als die Hälfte davon wurde durch Obstsorten gedeckt, die auch im Inland geerntet werden konnten (Äpfel, Kirschen, Erdbeeren, Pflaumen und Birnen). 
 
-```{r fig.cap = 'Familie beim Einkauf in einer "Selbstbedienungs-Kaufhalle" im Jahr 1976 (dpa)', echo = FALSE}
+```{r fig.cap = 'Familie beim Einkauf in einer "Selbstbedienungs-Kaufhalle" im Jahr 1976 (dpa)', echo = FALSE,out.width=800}
 
 knitr::include_graphics("laden.jpg")
 
@@ -135,7 +135,7 @@ Bis 1978 wurde mehr als die Hälfte des gesamten Obstangebots durch Importe gede
 
 1979 feierte die DDR ihr 30-jähriges Bestehen. Zu der Zeit war die Kritik am Staat schon sehr deutlich. Hierzu ein Auszug aus Robert Havemanns 10 Thesen, zum 30. Jahrestag der DDR von September 1979: 
 
-```{r fig.cap = '„Bruderkuss“ von Honecker und Breschnew (Global Look Press)' ,echo = FALSE}
+```{r fig.cap = '„Bruderkuss“ von Honecker und Breschnew (Global Look Press)' ,echo = FALSE,out.width="100%"}
 
 knitr::include_graphics("bruderkuss.jpg")
 
